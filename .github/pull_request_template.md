@@ -3,6 +3,7 @@ Please include a summary of the changes and the related Jira ticket reference.
 
 ## Checklist
 - [ ] I have performed a self-review of my code
+- [ ] There are no sensitive usernamees, passwords, keys, IP addresses or similar in my code
 - [ ] The commit messages follow our guidelines
 - [ ] There is a Jira ticket covering the changes in this PR
 - [ ] Your Jira ticket contains only the set of changes in this PR
